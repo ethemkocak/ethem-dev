@@ -68,29 +68,14 @@
 
 <h2 align="center">🚀 GitHub İstatistiklerim</h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=SENIN_GITHUB_KULLANICI_ADIN&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ethemkocak&theme=tokyonight&hide_border=true" />
 </div>
 <div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SENIN_GITHUB_KULLANICI_ADIN&theme=react-dark&hide_border=true&area=true" width="90%" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ethemkocak&theme=react-dark&hide_border=true&area=true" width="90%" alt="GitHub activity graph" />
 </div>
 
----
 
-<h2 align="center">🌐 Benimle İletişime Geç</h2>
-<div align="center">
-  <a href="https://www.linkedin.com/in/SENIN_LINKEDIN_KULLANICI_ADIN/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/SENIN_INSTAGRAM_KULLANICI_ADIN" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
-  </a>
-</div>
-
-###
-
-**📫 Beraber harika şeyler inşa edelim — bana buradan ulaşabilirsin:** <div align="center">
-
-<pre style="background-color: #1e1e1e; color: #22D3EE; padding: 12px 18px; border-radius: 8px; font-size: 1.5rem; display: inline-block; overflow-x: auto;">senin.eposta@gmail.com</pre>
+<pre style="background-color: #1e1e1e; color: #22D3EE; padding: 12px 18px; border-radius: 8px; font-size: 1.5rem; display: inline-block; overflow-x: auto;">ethemkk345@gmail.com</pre>
 
 ---
 
