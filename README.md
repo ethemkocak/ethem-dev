@@ -33,25 +33,3 @@
 </div>
 <br>
 
-<h2 style="color: #44AEFB">📊 İstatistikler</h2>
-
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SENIN_GITHUB_KULLANICI_ADIN&label=Profile%20Views&color=00bba7&style=for-the-badge" />
-</p>
-
-<div class="stats" align="center">
-![Ethem's GitHub Stats](https://forked-github-readme-stats-one.vercel.app/api?username=SENIN_GITHUB_KULLANICI_ADIN&count_private=true&hide_rank=true&show_icons=true&theme=algolia&border_radius=20)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SENIN_GITHUB_KULLANICI_ADIN&count_private=true&theme=algolia&border_radius=20)
-
-![Most Used Languages](https://forked-github-readme-stats-one.vercel.app/api/top-langs/?username=SENIN_GITHUB_KULLANICI_ADIN&layout=compact&count_private=true&show_icons=true&theme=algolia&border_radius=20)
-</div>
-
----
-<div class="footer" align="center" style="margin:15px;">
-    <a href="mailto:senin.eposta@gmail.com" target="_blank" rel="noopener noreferrer">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
-    </a>
-</div>
