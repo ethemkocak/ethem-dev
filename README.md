@@ -6,11 +6,6 @@
   Ben <span style="color:#22D3EE;">Ethem Koçak</span>
 </h2>
 
-<p align="center">
-  <strong>Günün nasıl geçiyor?</strong> 😊<br>
-  Projelerimi inceleyebilir, benimle iletişime geçebilir veya ilgini çeken bir depoma ⭐ bırakabilirsin!
-</p>
-
 ###
 
 <p align="center">
