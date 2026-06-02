@@ -6,11 +6,6 @@
   Ben <span style="color:#22D3EE;">Ethem Koçak</span>
 </h2>
 
-###
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Yazilim+Gelistirici;Teknoloji+Tutkunu;Problem+Cozucu;Sürekli+Ogrenen!" alt="Typing Animation" />
-</p>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=SENIN_GITHUB_KULLANICI_ADIN&label=Profil%20Goruntulenme&color=22D3EE&style=flat-square" alt="Profile Views" />
@@ -71,16 +66,3 @@
 
 
 <pre style="background-color: #1e1e1e; color: #22D3EE; padding: 12px 18px; border-radius: 8px; font-size: 1.5rem; display: inline-block; overflow-x: auto;">ethemkk345@gmail.com</pre>
-
----
-
-<div align="center" style="margin-top: 40px;">
-  <h3 style="font-family: 'Segoe UI', sans-serif;">
-    <i>Hemen şimdi yap.</i><br>
-    <span style="color: #22D3EE; font-weight: 600;">Bazen 'Sonra', 'Hiçbir Zaman' demektir!</span>
-  </h3>
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Ogrenmeye+Devam+%F0%9F%93%9A;Gelişmeye+Devam+%F0%9F%8C%B1;Kodlamaya+Devam+%E2%9C%A8" alt="Typing SVG" />
-</p>
