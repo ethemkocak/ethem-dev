@@ -8,7 +8,7 @@
 
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=SENIN_GITHUB_KULLANICI_ADIN&label=Profil%20Goruntulenme&color=22D3EE&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ethemkocak&label=Profil%20Goruntulenme&color=22D3EE&style=flat-square" alt="Profile Views" />
 </p>
 
 <div align="center">
