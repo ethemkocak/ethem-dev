@@ -64,5 +64,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ethemkocak&theme=react-dark&hide_border=true&area=true" width="90%" alt="GitHub activity graph" />
 </div>
 
-
-<pre style="background-color: #1e1e1e; color: #22D3EE; padding: 12px 18px; border-radius: 8px; font-size: 1.5rem; display: inline-block; overflow-x: auto;">ethemkk345@gmail.com</pre>
